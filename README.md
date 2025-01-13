@@ -31,7 +31,7 @@ Ich strebe danach, meine Fähigkeiten in den Bereichen **maschinelles Lernen, K�
   - JavaScript
   
 - **Frameworks und Tools**:
-  -----
+  Leer
   
 - **Datenbanken**:
   - Oracle SQL
@@ -49,7 +49,7 @@ Ich strebe danach, meine Fähigkeiten in den Bereichen **maschinelles Lernen, K�
 
 Hier findest du eine Übersicht meiner aktuellen und vergangenen Projekte:
 
--------
+Leer
 
 ## 💬 Wie du mich erreichen kannst
 
